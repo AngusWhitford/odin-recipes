@@ -1,1 +1,2 @@
 # odin-recipes
+This coding project is going to be a website with a compilation of recipes from across the web, i will source and use photos which make the food look more appetizing, but overall i will show my command of html skills and use the range of elements which have been taught to me thus far in the odin project.clear
